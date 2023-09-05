@@ -515,4 +515,4 @@ console.log("Завдання: 17 ==============================");
 console.log(customIncludes(["apple", "banana", "orange", "apple"], "banana"));
 // Виведе
 // 1
-// true
+/// true
